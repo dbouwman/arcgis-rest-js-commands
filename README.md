@@ -9,5 +9,6 @@ This project uses the `commander` moodule, which streamlines the creation of nod
 ### Commands
 
 | command | description | example |
+| --- | --- | --- | 
 | `ago search <query>` | search for items | `ago search water` |
 | `ago export <id> <file>` | export an item to a json file | `ago export a62cb9d894f145cc89531c096d0012b1 pa.json` |
